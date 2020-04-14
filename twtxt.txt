@@ -3,3 +3,6 @@
 2020-04-07T01:05:24+05:30	Finally made a site to showcase my work
 2020-04-10T21:11:23.000000Z	Started gardening with a pineapple
 2020-04-10T21:28:51.000000Z	Made a Menger sponge from sonobe units
+2020-04-14T16:25:23.000000Z	Made a stellated icosahedron yesterday
+2020-04-14T16:26:13.000000Z	Made a 4x3x1 intersecting triangles - Gasherbrum
+2020-04-14T16:27:03.000000Z	Tried cross compiling Rust to ARM7 with musl target
