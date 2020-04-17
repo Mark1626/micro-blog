@@ -7,3 +7,5 @@
 2020-04-14T16:26:13.000000Z	Made a 4x3x1 intersecting triangles - Gasherbrum
 2020-04-14T16:27:03.000000Z	Tried cross compiling Rust to ARM7 with musl target
 2020-04-15T09:09:17.000000Z	Did a major update to my knowledge repo
+2020-04-16T13:28:35.000000Z	Finally mastered using Nick Robinson's trimodule
+2020-04-17T10:24:24.000000Z	Thus Spoke Zarathustra
