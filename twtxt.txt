@@ -1,44 +1,47 @@
+# nick = mark1626
+# url = https://mark1626.github.io/
+
 2020-04-06T22:53:40+05:30	Hello twtxt
 2020-04-06T23:11:09+05:30	Just Do It
 2020-04-07T01:05:24+05:30	Finally made a site to showcase my work
-2020-04-10T21:11:23.000000Z	Started gardening with a pineapple
-2020-04-10T21:28:51.000000Z	Made a Menger sponge from sonobe units
-2020-04-14T16:25:23.000000Z	Made a stellated icosahedron yesterday
-2020-04-14T16:26:13.000000Z	Made a 4x3x1 intersecting triangles - Gasherbrum
-2020-04-14T16:27:03.000000Z	Tried cross compiling Rust to ARM7 with musl target
-2020-04-15T09:09:17.000000Z	Did a major update to my knowledge repo
-2020-04-16T13:28:35.000000Z	Finally mastered using Nick Robinson's trimodule
-2020-04-17T10:24:24.000000Z	Thus Spoke Zarathustra
-2020-04-18T11:18:20.000000Z	Did the capra cheese in DS1
-2020-04-22T07:44:35.000000Z	react-three-fiber is sweet
-2020-04-30T19:52:12.000000Z	The noblest pleasure is the joy of understanding
-2020-05-01T17:37:49.000000Z	You need to serve this over https to use this feature aaaaaaahhhhhhhhhhh
-2020-05-03T17:38:43.000000Z	'Live with it' they said and I did
-2020-05-05T21:36:38.000000Z	No matter how hard it gets, I just keep moving forward
-2020-05-05T22:52:48.000000Z	And by thy word the destroyer became the creator
-2020-05-05T23:06:52.000000Z	And now I have become death - The destroyer of worlds
-2020-05-12T06:54:50.000000Z	If a sloth were to clap, it will always sound sarcastic
-2020-05-18T03:27:37.000000Z	I listened for the echo and I heard only praise
-2020-05-18T03:29:25.000000Z	If thou gaze long into an abyss, the abyss will also gaze unto thee
-2020-05-22T05:35:59.000000Z	History can never be forgotten
-2020-05-26T17:41:01.000000Z	Tesslations are fun
-2020-05-26T17:43:48.000000Z	vi in termux is an incredible editor for Android
-2020-05-29T09:14:16.000000Z	golang templates save sooo much time
-2020-06-10T20:35:02.000000Z	Il ne faut jamais rein outrer
-2020-07-15T17:44:18.000000Z	I'm back
-2020-07-15T17:44:30.000000Z	Arch is awesome
-2020-08-10T15:12:21.000000Z	B̞͕̤ͦ̑̍͝e̟͈̜̬̣̰̜̰͆ͤ͛ͩ̕ç̰̹̈́̈́ͨö̤͓̯̯̠͈̞ͯ͟m̹̝̦̯͙̭̬̒ͣ̎͟ͅě̴̝̭͈̦̦ ̡̖̫̙ͫͥ̂o̡͓̥̻̟͕̫̝͂̈n̢̪͙̒ę̞̜͈̙͍͍͕̳̾̊͋ ̶̩̹̝̤͈͔͈̇w̶͕̮̬̃̊͆ͅi̛̳͕̇̾t͌͒̊̉҉̬̼͚̤ḥ̴̖̤̟̮̯̈́ͬͣ ̞͍̐̇̇̍̀t͍̥̹͇̹͚ͯ͠ḩ̪̤̾̊ͤͅe͕̝̺͎̼̒̅͜ ̶͓̦͚̮͂ͩ̿́c̻͇̞̻̲͒͗́oͪ͐̄҉͖̫͓d̏̓̒̌͏̪̱̺͇̩̩̻̹e̶̲̰̝̬̘̹̻̐̒
-2020-08-14T14:25:57.000000Z	I want a horse with no name
-2020-08-22T00:55:32.000000Z	"I may have lost my soul, but I still have my thumb" he said
-2020-08-25T17:50:23.000000Z	I hate gremlins
-2020-08-31T03:07:49.000000Z	Your mad, I'm back
-2020-09-12T22:26:08:000000Z	P-4503599627370517
-2020-09-18T05:35:34.000000Z	Yes, I do have an attitude
-2020-10-02T13:46:34.000000Z	Everything rare for the rare
-2020-10-15T14:18:48.000000Z	Ask no questions and you'll hear to lies
-2020-10-27T15:48:08.000000Z	Only the paranoid shall survive
-2020-11-02T16:25:42.000000Z	May you find forgiveness, and forgive others
-2021-02-24T18:12:35.000000Z	To fancy that in this life anything belonging to it will remain forever in the same state is an idle fancy;
-2021-03-05T06:40:28.000000Z	As ashes will be, ever seeking fire
-2021-05-20T13:55:03.000000Z	hsl(x, 90%, 60%)
-2021-10-28T21:47:26	I'm back
+2020-04-10T21:11:23+05:30	Started gardening with a pineapple
+2020-04-10T21:28:51+05:30	Made a Menger sponge from sonobe units
+2020-04-14T16:25:23+05:30	Made a stellated icosahedron yesterday
+2020-04-14T16:26:13+05:30	Made a 4x3x1 intersecting triangles - Gasherbrum
+2020-04-14T16:27:03+05:30	Tried cross compiling Rust to ARM7 with musl target
+2020-04-15T09:09:17+05:30	Did a major update to my knowledge repo
+2020-04-16T13:28:35+05:30	Finally mastered using Nick Robinson's trimodule
+2020-04-17T10:24:24+05:30	Thus Spoke Zarathustra
+2020-04-18T11:18:20+05:30	Did the capra cheese in DS1
+2020-04-22T07:44:35+05:30	react-three-fiber is sweet
+2020-04-30T19:52:12+05:30	The noblest pleasure is the joy of understanding
+2020-05-01T17:37:49+05:30	You need to serve this over https to use this feature aaaaaaahhhhhhhhhhh
+2020-05-03T17:38:43+05:30	'Live with it' they said and I did
+2020-05-05T21:36:38+05:30	No matter how hard it gets, I just keep moving forward
+2020-05-05T22:52:48+05:30	And by thy word the destroyer became the creator
+2020-05-05T23:06:52+05:30	And now I have become death - The destroyer of worlds
+2020-05-12T06:54:50+05:30	If a sloth were to clap, it will always sound sarcastic
+2020-05-18T03:27:37+05:30	I listened for the echo and I heard only praise
+2020-05-18T03:29:25+05:30	If thou gaze long into an abyss, the abyss will also gaze unto thee
+2020-05-22T05:35:59+05:30	History can never be forgotten
+2020-05-26T17:41:01+05:30	Tesslations are fun
+2020-05-26T17:43:48+05:30	vi in termux is an incredible editor for Android
+2020-05-29T09:14:16+05:30	golang templates save sooo much time
+2020-06-10T20:35:02+05:30	Il ne faut jamais rein outrer
+2020-07-15T17:44:18+05:30	I'm back
+2020-07-15T17:44:30+05:30	Arch is awesome
+2020-08-10T15:12:21+05:30	B̞͕̤ͦ̑̍͝e̟͈̜̬̣̰̜̰͆ͤ͛ͩ̕ç̰̹̈́̈́ͨö̤͓̯̯̠͈̞ͯ͟m̹̝̦̯͙̭̬̒ͣ̎͟ͅě̴̝̭͈̦̦ ̡̖̫̙ͫͥ̂o̡͓̥̻̟͕̫̝͂̈n̢̪͙̒ę̞̜͈̙͍͍͕̳̾̊͋ ̶̩̹̝̤͈͔͈̇w̶͕̮̬̃̊͆ͅi̛̳͕̇̾t͌͒̊̉҉̬̼͚̤ḥ̴̖̤̟̮̯̈́ͬͣ ̞͍̐̇̇̍̀t͍̥̹͇̹͚ͯ͠ḩ̪̤̾̊ͤͅe͕̝̺͎̼̒̅͜ ̶͓̦͚̮͂ͩ̿́c̻͇̞̻̲͒͗́oͪ͐̄҉͖̫͓d̏̓̒̌͏̪̱̺͇̩̩̻̹e̶̲̰̝̬̘̹̻̐̒
+2020-08-25T17:50:23+05:30	I hate gremlins
+2020-09-12T22:26:08+05:30	P-4503599627370517
+2020-09-18T05:35:34+05:30	Yes, I do have an attitude
+2020-10-02T13:46:34+05:30	Everything rare for the rare
+2020-10-15T14:18:48+05:30	Ask no questions and you'll hear no lies
+2020-10-27T15:48:08+05:30	Only the paranoid shall survive
+2020-11-02T16:25:42+05:30	May you find forgiveness, and forgive others
+2021-02-24T18:12:35+05:30	To fancy that in this life anything belonging to it will remain forever in the same state is an idle fancy;
+2021-03-05T06:40:28+05:30	As ashes will be, ever seeking fire
+2021-05-20T13:55:03+05:30	hsl(x, 90%, 60%)
+2021-10-28T21:47:26+05:30	I'm back
+2023-07-22T16:31:10+05:30	I'm back again
+2023-07-22T16:32:46+05:30	PoCL seems to need a MPSoc FPGA like Zynq to build an accelerator
+2023-07-22T16:37:44+05:30	I think a SoC with Litex PCIe + Flash could act as a programmable accelerator. Basically send the RISC-V code to flash and call reset, then stream data over PCIe

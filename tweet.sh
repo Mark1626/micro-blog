@@ -1,2 +1,4 @@
 #!/usr/bin/env sh
-echo "`date +%FT%T`\t$1" >> twtxt.txt
+
+echo -e "$(date -Is)\t$1" >> twtxt.txt
+
