@@ -45,3 +45,13 @@
 2023-07-22T16:31:10+05:30	I'm back again
 2023-07-22T16:32:46+05:30	PoCL seems to need a MPSoc FPGA like Zynq to build an accelerator
 2023-07-22T16:37:44+05:30	I think a SoC with Litex PCIe + Flash could act as a programmable accelerator. Basically send the RISC-V code to flash and call reset, then stream data over PCIe
+2023-09-09T11:23:16+05:30	Haskell lenses - https://lens.github.io/
+2023-09-09T11:25:42+05:30	Haskell: text, microlens, s-cargot, brick, diagrams, music-suite
+2023-09-09T11:26:09+05:30	GBA: Advance Wars
+2023-09-09T11:26:39+05:30	Free Stable Diffusion - stability.ai
+2023-09-09T11:27:25+05:30	z3 can solve logic puzzles
+2023-09-09T11:27:46+05:30	Gaussian Splatting
+2023-09-09T11:28:14+05:30	explore: libevdev, libusb
+2023-09-09T11:28:53+05:30	explore: brevitas U-Net
+2023-09-09T11:29:15+05:30	explore: adga Programming Language
+2023-09-09T14:41:27+05:30	explore: groff, pic with fzf
