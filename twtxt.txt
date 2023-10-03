@@ -55,3 +55,4 @@
 2023-09-09T11:28:53+05:30	explore: brevitas U-Net
 2023-09-09T11:29:15+05:30	explore: adga Programming Language
 2023-09-09T14:41:27+05:30	explore: groff, pic with fzf
+2023-10-03T17:21:48+05:30	explore: lua-radio, https://luaradio.io/docs/supported-hardware.html
